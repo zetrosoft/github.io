@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<LookAt>
+  <latitude>42.390185</latitude>
+  <longitude>-72.528412</longitude>
+  <range>1200</range>
+  <tilt>0</tilt>
+  <heading>0</heading>
+</LookAt>
+<Folder>
+      <Placemark id="66">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.507163,-6.385030</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="65">
+        <name>Karya Tani says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>107.507161,-6.385028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="64">
+        <name>- says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.216588,-6.487509</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="63">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.507169,-6.385022</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="62">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.507160,-6.385027</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="61">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.508213,-6.384086</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="60">
+        <name>Tani Unggul Sekali says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>110.618965,-7.507845</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="59">
+        <name> says:</name>
+        <description>Belalang</description>
+        <Point>
+          <coordinates>107.487010,-6.403043</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="58">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.319505,-6.127177</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="57">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.319505,-6.127177</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="56">
+        <name>Hu says:</name>
+        <description></description>
+        <Point>
+          <coordinates>108.250590,-6.836382</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="55">
+        <name>Pangulah Utara says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.508173,-6.384017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="54">
+        <name>Lolo says:</name>
+        <description></description>
+        <Point>
+          <coordinates>107.507161,-6.385028</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="53">
+        <name>Bunga Sakura says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>-122.084000,37.421998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="52">
+        <name>Tani Unggul says:</name>
+        <description>Burung</description>
+        <Point>
+          <coordinates>-122.084000,37.421998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="51">
+        <name> says:</name>
+        <description></description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="41">
+        <name>Tani Unggul sekali says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="31">
+        <name>Tani Unggul sekali says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="21">
+        <name>Tani Unggul says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="13">
+        <name>Jaya Sentosa says:</name>
+        <description>Belalang</description>
+        <Point>
+          <coordinates>110.451859,-7.767531</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="12">
+        <name>jayabaya says:</name>
+        <description>Burung</description>
+        <Point>
+          <coordinates>110.616473,-7.515202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="11">
+        <name>Tani Unggul says:</name>
+        <description>Belalang</description>
+        <Point>
+          <coordinates>110.616161,-7.515316</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="10">
+        <name>Jaya Sentosa says:</name>
+        <description>Penggerek Batang Padi</description>
+        <Point>
+          <coordinates>110.616230,-7.514650</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="9">
+        <name>Jaya Sentosa says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>110.615938,-7.514227</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="8">
+        <name>Jaya Sentosa says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>110.615938,-7.514227</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="7">
+        <name>jayabaya says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="6">
+        <name>jayabaya says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>110.621548,-7.506539</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5">
+        <name>Maju Jaya says:</name>
+        <description>Belalang</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="4">
+        <name>Tani Unggul sekali says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>0.000000,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="3">
+        <name>Tani Unggul sekali says:</name>
+        <description>Tikus</description>
+        <Point>
+          <coordinates>106.551700,-6.962800</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="2">
+        <name>Tani Unggul says:</name>
+        <description>Wereng Coklat</description>
+        <Point>
+          <coordinates>107.004545,-7.259010</coordinates>
+        </Point>
+      </Placemark>
+</Folder>
+</Document>
+</kml>
